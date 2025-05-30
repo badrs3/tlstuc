@@ -20,14 +20,14 @@ tlstuc is a modern, user-friendly runtime and compiler for the C programming lan
 Alternatively, you can use PowerShell to install tlstuc:
 
 ```powershell
-Invoke-WebRequest -Uri https://raw.githubusercontent.com/badrs3/tlstuc/main/install.ps1 -OutFile install.ps1
+Invoke-WebRequest -Uri https://raw.githubusercontent.com/badrs3/tlstuc/master/install.ps1 -OutFile install.ps1
 PowerShell -ExecutionPolicy Bypass -File .\install.ps1
 ```
 
 ### macOS and Linux
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/badrs3/tlstuc/main/install.sh | sudo bash
+curl -sSL https://raw.githubusercontent.com/badrs3/tlstuc/master/install.sh | sudo bash
 ```
 
 ## Usage
